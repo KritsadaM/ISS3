@@ -1,0 +1,66 @@
+FPGA_File_Name:           SILVERSTONE_FPGA_primary_V0001_0006.bin
+BIOS_File_Name:           SilverstoneX_Hewittlake_BIOS_3.00.00.BIN
+CPLD_File_Name:           PS2_new_BB_V15_C_V15_F_V02_SW_01_SW_02.vme
+BMC_File_Name:            R4009-J0011-01_SilverstonePureStorageV1.10_Online.ima
+SDK_Version:              sdk-6.5.16 built 20190801
+PCIE_FW_Name:             pcieg3fw.bin
+Fan_PN:                   0210D9
+Fan_Rev:                  "02"
+BMC_Product:              Z9332F-ON-BMC
+FPGA_Version:             "10005"
+BIOS_Version:             "2.0.0"
+BMC_Version:              "02 02"
+SDK_path:                 "R4009-JF005-01_V2.0.2_SilverstoneB2F_SDK"
+Diag_File:                "cel_diag-purestoragep2.v1.0.0.deb"
+Diag_File_size:           "53f2818d886a77376f0599dde400e8d2"
+cel_psu_File_size:        "75cb2b38fc55854c2de13d72f7e15d3a"
+ONL_file_name:            "ONL-1.5_ONL-OS_2019-11-19.1339-a0a3f38_AMD64_INSTALLED_INSTALLER"
+ONL_File_size:            "e9908e9859827ef437242e25ed730673"
+BIOS_File_size:           "d838e1cd963d9eb4c1e68dd4149c2395"
+FPGA_File_size:           "b0897ee5ae252bbf51b9f499a39bf000"
+CPLD_File_size:           "33fd7e5102c17ce9b1e16acd3ce7f91d"
+BMC_File_size:            "9e5706bd5f9b1f9f043faf4962d2973a"
+File_path:                "/tftpboot/IMG_R4009-F9002-01_R06_Silverstone_PS/"
+
+Firmware_Version:
+  CPLD_Base_Board:        "0x15"
+  # CPLD_Fan_Board:         "03"
+  CPLD_Fan_Board2:        "0x2"
+  CPLD_ComE:              "0x15"
+  CPLD_Switch1:           "0x00"
+  # CPLD_Switch2:           "01"
+  BMC1_Version:           "1.01"
+  BMC2_Version:           "01 0a"
+  Bios_Version:           "3.00.00"
+  FPGA_Version:           "0x00010006"
+  ONL_Version:            ONL-1.3
+  Diag_Version:           "1.0.0"
+  ONIE_Version:           "0.0.3"
+  FPGA_Code_Version:      "0.6"
+  SSD_FW_Version:         L20B12
+  PCIE1_FW_Version:       "2.5"
+  PCIE2_FW_Version:       D102_08
+
+TLV_Version:
+  Product_Name:           Silverstone
+  Device_Version:         "1"
+  # Platform_Name:          Broadwell-DE D1627
+  Platform_Name:          x86_64-cel_silverstone-r0
+  ONIE_Version:           "0.0.5"
+  MAC_Addresses:          "262"
+  Manufacturer:           Celestica
+  Country_Code:           THA
+  Diag_Version:           "1.0.0"
+  New_Device_Version:     "01"
+  Service_tag:            LB
+  Vendor_B2F:             0x2F 0xD4 0xBF
+  Vendor_F2B:             0x2F 0xD4 0xFB
+
+SMBios_Version:
+  System_Manufacturer:    Celestica
+  System_Product:         Silverstone
+  Board_Manufacturer:     Celestica
+  Chassis_Location:       Silverstone_CPU_CARD
+  Chassis_Manufacturer:   Celestica
+  Chassis_Version:        "02"
+  Chassis_Asset_Tag:      R4009-F0001-01

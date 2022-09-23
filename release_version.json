@@ -1,0 +1,26 @@
+{
+  "FT1": {
+    "release_path_version": "v0.0.4"
+  },
+  "FT2": {
+    "release_path_version": "v0.0.3"
+  },
+  "FT3": {
+    "release_path_version": "v0.0.5"
+  },
+  "FT4": {
+    "release_path_version": "v0.0.1"
+  },
+  "FT5": {
+    "release_path_version": "empty"
+  },
+  "FT6": {
+    "release_path_version": "v0.0.1"
+  },
+  "FT7": {
+    "release_path_version": "empty"
+  },
+  "FT8": {
+    "release_path_version": "v0.0.5"
+  }
+}

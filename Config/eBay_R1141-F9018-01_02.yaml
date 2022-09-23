@@ -1,0 +1,57 @@
+FPGA_File_Name:           SILVERSTONE_FPGA_primary_V0001_0006.bin
+BIOS_File_Name:           Silverstone_Offline_BIOS_2.0.7.BIN
+CPLD_File_Name:           Silverstone_V0a_FAN_V03_BASE_V0a_COME_V11_SW1_V01_SW2_V01.vme
+BMC_File_Name:            R1141-J0006-01_Silverstone_1.01.ima
+SDK_Version:              sdk-6.5.16 built 20190801
+PCIE_FW_Name:             pcieg3fw.bin
+Fan_PN:                   0210D9
+Fan_Rev:                  "02"
+BMC_Product:              Z9332F-ON-BMC
+Fan_type:                 F2B
+Uart_Comand:              "\x15\x12\x14"
+
+Firmware_Version:
+  CPLD_Base_Board:        0a
+  CPLD_Fan_Board:         "03"
+  CPLD_Fan_Board2:        "0x3"
+  CPLD_ComE:              "11"
+  CPLD_Switch1:           "01"
+  CPLD_Switch2:           "01"
+  BMC1_Version:           "1.01"
+  BMC2_Version:           "01 01"
+  Bios_Version:           "2.0.7"
+  FPGA_Version:           "00010006"
+  ONL_Version:            ONL-1.3
+  Diag_Version:           "1.0.4"
+  ONIE_Version:           "0.0.3"
+  FPGA_Code_Version:      "0.6"
+  SSD_FW_Version:         L20B12
+  PCIE1_FW_Version:       "2.5"
+  PCIE2_FW_Version:       D102_08
+
+TLV_Version:
+  Product_Name:           Z9332F-ON
+  Part_Number:            0N0FFN
+  Device_Version:         "1"
+  Label_Rivision:         A00
+  Platform_Name:          x86_64-dellemc_z9332f_d1508-r0
+  ONIE_Version:           "0.0.3"
+  MAC_Addresses:          "384"
+  Manufacturer:           CET00
+  Country_Code:           TH
+  Vender_Name:            Dell EMC
+  Vendor_Extension:       0x00 0x00 0x02 0xa2
+  Diag_Version:           "1.3"
+  New_Device_Version:     "01"
+
+SMBios_Version:
+  System_Manufacturer:    Celestica
+  System_Product:         Z9332F-ON
+  System_Family_Name:     Z9332F-ON
+  Board_Manufacturer:     Celestica
+  Board_Product:          R1141-G2022-01
+  Board_Asset_Tag:        R1141-G1026-01
+  Board_Location_Chassis: Z9332F-ON_CPU_CARD
+  Chassis_Manufacturer:   Celestica
+  Chassis_Version:        "02"
+  Chassis_Asset_Tag:      R1141-F0081-02
