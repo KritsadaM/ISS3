@@ -207,3 +207,4 @@ def fail(msg=None):
     except:
         log.error("Could not close SSH session")
     BuiltIn().fail(msg=msg)
+
